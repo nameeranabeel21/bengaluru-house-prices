@@ -28,9 +28,8 @@ A buyer or real-estate agent in Bengaluru wants to know: **what drives house pri
 - **Cheapest areas** (with at least 15 listings): Ananth Nagar, Attibele, Bommasandra Industrial Area, Chandapura and Kammasandra, mostly on the outskirts of the city.
 - Price rises with area for every BHK type, but at the same size, listings with more bedrooms tend to cost more, and 4 BHK prices vary far more than 1 or 2 BHK, which suggests location and quality matter a lot for larger homes.
 
-![Top locations](charts/p1_top_locations.png)
-![Correlation](charts/p1_correlation.png)
-
+![Top locations](p1_top_locations.png)
+![Correlation](p1_correlation.png) 
 ## 5. Recommendation
 - Buyers on a budget get the lowest price per sq ft on the city's outskirts, but should weigh commute and infrastructure.
 - Buyers paying for extra bathrooms should know that bathroom count mostly tracks bedroom count, so it adds little independent value.
